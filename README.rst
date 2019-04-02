@@ -63,7 +63,7 @@ Once Pinball is installed either through pypi package installation or source cod
 
 Configure Pinball
 ~~~~~~~~~~~~~~~~~
-In order to start Pinball, user needs to provide a pinball configuration file. A sample pinball configuraiton can be retrived at here_.
+In order to start Pinball, user needs to provide a pinball configuration file. A sample pinball configuration can be retrived at here_.
 
 .. _here: https://github.com/pinterest/pinball/blob/master/pinball/config/default.yaml
 
@@ -94,7 +94,7 @@ There are a few parameters to configure. For example:
 
 .. _example: https://github.com/pinterest/pinball/blob/master/pinball_ext/examples/workflows.py
 .. _parser: https://github.com/pinterest/pinball/blob/master/pinball_ext/workflow/parser.py
-* Application Configuration ::
+* Application configuration ::
 
     parser:                    pinball_ext.workflows.parser.PyWorkflowParser
 
